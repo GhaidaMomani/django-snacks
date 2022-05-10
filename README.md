@@ -5,6 +5,21 @@
 ![image](assets/makemigrations.png)
 
 ![image](assets/snaks.png)
+
+#  web site in Django with 2 pages
+**home page**
+**about page**
+
+
+used ancestor template to contain navigation elements
+It is built the “Django way” aka match the structure of in-class demo
+
+
+![image](assets/home.png)
+
+![image](assets/about.png)
+
+
 <hr/>
     <p align="right">(<a href="#top">back to top</a>)</p>
 
